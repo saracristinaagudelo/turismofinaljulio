@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VengaAMiPueblo2</string>
+    <string name="descripcionhoteles">Em Necocli você encontrará hotéis e glamlin a partir de 100.000 COP por noite,
+        quartos confortáveis 100.000 que lhe permitirão desfrutar do descanso e relaxamento da cidade.
+    </string>
+
+    <string name="opcion1">Español</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Portugues</string>
+    <string name="opcion4">Acerca de</string></resources>

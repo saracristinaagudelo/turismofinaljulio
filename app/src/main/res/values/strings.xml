@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VengaAMiPueblo2</string>
+    <string name="descripcionhotel">En Necocli encontrarás hoteles y glamplin desde 100.000 COP por noche,
+        comodas habitaciones que te permitiran disfrutar del descanso y el relax del pueblo.
+    </string>
+
+    <string name="descripcionrestaurantes">Allí se preparan platos muy variados de mariscos, pescados,
+        arroz con coco, plátano, yuca, y dulces elaborados con frutas que se cultivan en sus tierras.
+    </string>
+
+    <string name="descripcionturismo">Entre sus muchos atractivos encontramos un vasto patrimonio natural,
+        representado en resguardos indígenas, parajes ecológicos, cerros y cascadas, además de diferentes playas sobre el
+        golfo de Urabá;
+    </string>
+
+
+    <string name="opcion1">Español</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Portugues</string>
+    <string name="opcion4">Acerca de</string>
+</resources>
