@@ -75,9 +75,6 @@ public class Home extends AppCompatActivity {
                 Toast.makeText(this, "Accionaste Inglés", Toast.LENGTH_SHORT).show();
                 break;
 
-            case (R.id.opcion3):                                                                                                                                   m       3):
-                Toast.makeText(this, "Accionaste Portugues", Toast.LENGTH_SHORT).show();
-                break;
 
             case (R.id.opcion4):
                 Toast.makeText(this, "Accionaste acerca de", Toast.LENGTH_SHORT).show();
