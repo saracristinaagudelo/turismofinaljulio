@@ -13,7 +13,7 @@ public class RestauranteMolde
     public RestauranteMolde(String nombre, String descripcion, String rangoPrecions, int foto) {
         this.nombre = nombre;
         this.descripcion = descripcion;
-        this.rangoPrecios = rangoPrecios;
+        this.rangoPrecios = rangoPrecions;
         this.foto = foto;
     }
 

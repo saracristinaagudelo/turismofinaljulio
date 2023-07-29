@@ -21,7 +21,7 @@ public class HotelAdaptador extends RecyclerView.Adapter<HotelAdaptador.viewHold
     //Constructor:
 
     public HotelAdaptador(ArrayList<MoldeHotel> listadeHoteles) {
-        listadeHoteles = listadeHoteles;
+        this.listadeHoteles = listadeHoteles;
     }
 
     @NonNull//Anotaciones

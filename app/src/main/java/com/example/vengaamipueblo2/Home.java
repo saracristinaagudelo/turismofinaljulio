@@ -44,7 +44,7 @@ public class Home extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                Intent intent3=new Intent(Home.this, Restaurantes.class);
+                Intent intent3=new Intent(Home.this, Sitios.class);
                 startActivity(intent3);
                 
             }
